@@ -1,5 +1,5 @@
-# Project overview
-To create a game engine that will operate using a command line interface system like that found in Zork and other text adventure games. The engine itself will read materials in from a properly formatted text file to create characters, rooms, events, and records to permit a player to complete a given 'adventure'. Additional objectives for this project include producing tools to permit authors to write their own adventure files for the engine.
+# What is 'Room 101' ?
+Room 101 is a personal project intended to provide me a vehicle to push myself to develop my skills as a programmer. The goal is to build a text adventure engine and interface that will allow players to load and play adventure modules through the use of a text line interface. The finished system will support the ability of players to create characters that they can then use as their avatar in different adventure modules, and even bring characters from one module to another. At any time the player will be able to execute a command that will use the record of actions for that play through to generate a story. The project will also include the create of "Author Tools" to allow the create of adventure modules that can be easily distributed by sharing the .adv file for the adventure. 
 
 ## Purpose of this project
 Primarily intended to be a personal project to give me a reason to push my skills in programming, documentation, and design.
