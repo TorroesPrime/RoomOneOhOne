@@ -3,7 +3,9 @@
 ## September 3, 2023
 
 > "A journey of a thousand miles begins with a single step"
-*Laozi*
+>
+>
+> *Laozi*
 
 At this point, the project has only just started and is largely conceptual. My intention at this is point is documenting my plans for the project, and defining all the concepts for it. See below for the 'planning' section.
 
@@ -15,13 +17,13 @@ At this point, the project has only just started and is largely conceptual. My i
 
 Tasks to be completed in this phase:
 
-* [ ] create location class
-* [ ] create room class
-* [ ] create exit class
-* [ ] create GameState class
-* [ ] create interpreter class
-* [ ] create command class
-* [ ] create CommandFactory class
+* [ ] create [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#locationmaphttps://) class
+* [ ] create [room ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#room)class
+* [ ] create [exit ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#exit)class
+* [ ] create [GameState](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameState) class
+* [ ] create [interpreter ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#interpreter)class
+* [ ] create [command ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#command)class
+* [ ] create [CommandFactory ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#CommandFactory)class
 * [ ] create Move command
 * [ ] create Look command
 * [ ] create help command
@@ -33,7 +35,7 @@ Tasks to be completed in this phase:
 
 Tasks to be completed in this phase:
 
-* [ ] create GameItem class
+* [ ] create [GameItem ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameItem)class
 * [ ] impliment test character system
 * [ ] create take command
 * [ ] create drop command
@@ -44,6 +46,7 @@ Tasks to be completed in this phase:
 ### Objective: impliment basic character system
 
 Tasks to be completed in this phase:
+
 * [ ] create basic character class.
 * [ ] create basic CharacterIdentity class
 * [ ] create basic CharacterDescription class
@@ -57,6 +60,7 @@ Tasks to be completed in this phase:
 ### Objective: Complete a basic GUI based application that will permit the creation of adventure modules.
 
 Tasks to be completed in this phase:
+
 * [ ] Create 'Adventure Builder' system.
 * [ ] impliment file reading, adventure instantiation, game state saving and game state restoration in the core system.
 
@@ -65,6 +69,7 @@ Tasks to be completed in this phase:
 ### Objective: expand on the room, and exit classes to include lighting level, and enviroment types with rooms, and lock status and visible attributes on the exits.
 
 Tasks to be completed in this phase:
+
 * [ ] add lighting level and enviroment types to room class
 * [ ] add visible and lock status to exit class
 * [ ] create lock command
@@ -76,6 +81,7 @@ Tasks to be completed in this phase:
 ### Objective: expand on the item class to include verb:action system
 
 Tasks to be completed in this phase:
+
 * [ ] add verb:action to item class
 * [ ] test verb:action functionality
 
@@ -84,6 +90,7 @@ Tasks to be completed in this phase:
 ### Objective: expand on the character class to incorporate equipping and removing items of clothing, and in-game effects such as modification to health and other statuses.
 
 Tasks to be completed in this phase:
+
 * [ ] create CharacterCondition class
 * [ ] expand on the character class to incorporate a CharacterCondition object.
 * [ ] test the functionality of the expanded character class by ensuring current wounds, current fatigue, and status can be changed and their changed reflected in the game interface.
@@ -93,6 +100,7 @@ Tasks to be completed in this phase:
 **Objective: Impliment talent and enviromental modifiers.**
 
 Tasks to be completed in this phase:
+
 * [ ] create talent class
 * [ ] impliment test instances of talents
 * [ ] ensure functionality of character class when new talent(s) are added to an existing character.
@@ -104,6 +112,7 @@ Tasks to be completed in this phase:
 **Objective: Impliment basic combat system.**
 
 Tasks to be completed in this phase:
+
 * [ ] extend item class to create weapon class
 * [ ] extend weapon class to create RangedWeapon class and MeleeWeapon class
 * [ ] create GameEvent class
