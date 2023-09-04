@@ -98,3 +98,13 @@ Tasks to be completed in this phase:
 * [ ] ensure functionality of character class when new talent(s) are added to an existing character.
 * [ ] test effects of each talent in test instance library
 * [ ] test enviromental modifer effects on core stat test functionality.
+
+### Phase 9
+
+**Objective: Impliment basic combat system.**
+
+Tasks to be completed in this phase:
+* [ ] extend item class to create weapon class
+* [ ] extend weapon class to create RangedWeapon class and MeleeWeapon class
+* [ ] create GameEvent class
+* [ ] extend GameEvent class to create CombatEvent class
