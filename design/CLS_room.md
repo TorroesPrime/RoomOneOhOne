@@ -74,7 +74,6 @@ returns a string containing a full description of the room including the list of
 
 example:
 
-
 ### leave_by()
 
 returns a string that contains the visible exits in the room.
@@ -83,10 +82,18 @@ returns a string that contains the visible exits in the room.
 
 takes a list of item objects, or a single item object
 
-### remove_item(name_of_item)
+### remove_item(name_of_item or item_id)
 
-### remove_npc(name_of_npc)
+returns the first occurance of name_of_item or the item with the matching item_id and a message confirming the removal of the item if it is found. Returns only a message saying the item was not found otherwise.
+
+### remove_npc(name_of_npc or char_id)
+
+returns the first occurance of name_of_npc or the character with the matching char_id and message stating that the character has left the room, if the character is found. If the character is not found, only  message indicating that there is no character matching that criteria in the room.
 
 ### add_npcs(list_of_npcs)
 
+takes a list of character objects and adds each one to the rooms non_player_characters list.
+
 ### change_light_level(amount)
+
+takes an int amount and modifies the rooms light_level by that amount up to 10 or down to 0.
