@@ -6,6 +6,8 @@ Room 101 is a personal project intended to provide me a vehicle to push myself t
 
 Primarily intended to be a personal project to give me a reason to push my skills in programming, documentation, and design.
 
+View [Current Status](current_status.md) to see the present standing of the project.
+
 ## Quick view info:
 
 This section provides links to specific documents.
