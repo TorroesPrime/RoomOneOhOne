@@ -4,10 +4,9 @@
 
 > "A journey of a thousand miles begins with a single step"
 >
->
 > *Laozi*
 
-At this point, the project has only just started and is largely conceptual. My intention at this is point is documenting my plans for the project, and defining all the concepts for it. See below for the 'planning' section.
+At this point, the project has only just started and is largely conceptual. My intention at this is point is documenting my plans for the project, and defining all the concepts for it. See the 'planning' section below for more information.
 
 ## Planning
 
