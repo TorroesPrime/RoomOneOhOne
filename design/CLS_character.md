@@ -41,7 +41,7 @@
 <dt>known_characters</dt>
 <dd>a dictionary that lists the char_id of every character this has interacted with as the key, with the value being an int with a value ranging between -255 and 255. A value of 255 means that the character is regarded as close family, an honored ally, and cherished comrade, while a value of -255 means that the character is utterly despised and revialed.</dd>
 </dl>
-## methods
+<h3> methods</h3>
 <dl>
 <dt>get_first_name</dt>
 <dd>returns the first name of the character as provided by the character's CharacterIdentity object.</dd>
