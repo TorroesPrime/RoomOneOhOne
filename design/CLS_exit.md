@@ -49,6 +49,5 @@ a dictionary containing strings that are called for various descriptions. The ke
 
 returns a description containing an exit and its associated destination.
 
-###switchLock–
-
-changes the isLocked attribute to its other state, false if already true and true is already false. 
+switchLock–
+: changes the isLocked attribute to its other state, false if already true and true is already false. 
