@@ -80,7 +80,7 @@
 <dt>add_skill(skill)</dt>
 <dd>adds <i>skill</i> to character's skills_C.</dd>
 <dt>improve_skill(skill_name,amount)</dt>
-<dd>attempts to improve a skill named <i>skill_name</i> by <i>amount</i>. if a skill named <i>skill_name</i> is not present, the skill is added with a amount of 1.</dd>
+<dd>attempts to improve a skill <i>skill_name</i> by <i>amount</i>. iF a skill named <i>skill_name</i> is not present, the skill is added with a amount of 1.</dd>
 <dt>check_skill(skill or condition)</dt>
 <dd>checks to see if <i>skill</i> or <i>condition</i> is present in character's skills_C or condition.</dd>
 <dt>check_talent(talent or condition)</dt>
