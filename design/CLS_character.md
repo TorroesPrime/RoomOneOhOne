@@ -94,7 +94,7 @@
 <dt>reduce_fatigue(amount)</dt>
 <dd>removes <i>amount</i> of fatigue from character's condition.</dd>
 <dt>stat_test(stat,mod)</dt>
-<dd>performs a [stat test](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#stat_test) with the character's <i>stat</i> stat, modified by <i>mod</i> value.</dd>
+<dd>performs a [stat test](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#skill-test) with the character's <i>stat</i> stat, modified by <i>mod</i> value.</dd>
 <dt>get_char_sheet(options)</dt>
 <dd>returns the character's compiled character sheet.</dd>
 <dl>
