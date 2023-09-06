@@ -1,6 +1,7 @@
 # character
 
 ## fields
+<html>
 <dl>
 <dt>char_id</dt>
 <dd>a UUID compliant string. The individual ID is unique to the character and generated at the time the character is created. This allows the same character to be imported and used in different adventures.</dd>
@@ -41,8 +42,9 @@
 <dt>known_characters</dt>
 <dd>a dictionary that lists the char_id of every character this has interacted with as the key, with the value being an int with a value ranging between -255 and 255. A value of 255 means that the character is regarded as close family, an honored ally, and cherished comrade, while a value of -255 means that the character is utterly despised and revialed.</dd>
 </dl>
-
+</html>
 ## methods
+<html>
 <dl>
 <dt>get_first_name</dt>
 <dd>returns the first name of the character as provided by the character's CharacterIdentity object.</dd>
@@ -99,3 +101,4 @@
 <dt>get_char_sheet(options)</dt>
 <dd>returns the character's compiled character sheet.</dd>
 <dl>
+</html>
