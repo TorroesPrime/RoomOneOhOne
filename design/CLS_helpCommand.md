@@ -1,4 +1,34 @@
-790
+# helpCommand
 
-<pre class="vditor-reset" placeholder="" contenteditable="true" spellcheck="false"><h1 data-block="0" class="vditor-ir__node" id="ir-LookCommand_0" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>LookCommand</h1><p data-block="0">Inherites from <span data-type="a" class="vditor-ir__node vditor-ir__node--hidden"><span class="vditor-ir__marker vditor-ir__marker--bracket"></span><span class="vditor-ir__link">command</span><span class="vditor-ir__marker vditor-ir__marker--bracket"></span><span class="vditor-ir__marker vditor-ir__marker--paren"></span><span class="vditor-ir__marker vditor-ir__marker--link"></span><span class="vditor-ir__marker vditor-ir__marker--paren"></span></span> class.</p><p data-block="0">Allows the player to view a more detailed description of the</p><p data-block="0">room.</p><h2 data-block="0" class="vditor-ir__node" id="ir-fields_4" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>fields</h2><h3 data-block="0" class="vditor-ir__node" id="ir-command-name--_5" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>command_name –</h3><p data-block="0">a string representing the test version of the command</p><h3 data-block="0" class="vditor-ir__node" id="ir-description--_7" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>description –</h3><p data-block="0">a string describing what the command is used for.</p><h3 data-block="0" class="vditor-ir__node" id="ir-usage--_9" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>usage –</h3><p data-block="0">a string demonstrating how to use the command</p><h3 data-block="0" class="vditor-ir__node" id="ir-usage-details--_11" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>usage_details –</h3><p data-block="0">a string describing possible variants or alternate uses of
-this command.</p><h2 data-block="0" class="vditor-ir__node" id="ir-methods_13" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>methods</h2><h3 data-block="0" class="vditor-ir__node vditor-ir__node--expand" id="ir-execute----_14" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker">### </span>execute() –</h3><p data-block="0">Returns the results of the fullDescribe method of the player's current room.</p><h3 data-block="0" class="vditor-ir__node" id="ir-details-Self---_16" data-marker="#"><span class="vditor-ir__marker vditor-ir__marker--heading" data-type="heading-marker"></span>details(Self) –</h3><p data-block="0">returns a string that is a combination of the command_name, description and usage_details attributes. Used when reading the help command for a given command.</p></pre>
+Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
+
+Allows the player to view the usage details of the supplied command or to view the usage information about the help command if no command supplied.
+
+## fields
+
+### command_name –
+
+a string representing the name of the command
+
+### description –
+
+a string describing what the command is used for.
+
+### usage –
+
+a string demonstrating how to use the command
+
+### usage_details –
+
+a string describing possible variants or alternate uses of this command.
+
+## methods
+
+### execute() –
+
+Returns the results of the result fo the details() method of supplied command, if command supplied. If no command supplied, displays the result of the details() method of the help command.
+
+### details(Self) –
+
+returns a string that is combination of the command_name, description and usageDetails
+attributes. Used when reading the help command for a given command.

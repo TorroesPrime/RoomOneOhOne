@@ -1,6 +1,6 @@
 # MoveCommand
 
-Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_comand.md) class.
+Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
 
 ## fields
 
@@ -30,7 +30,7 @@ in.
 
 ### execute() –
 
-gets the list of the current [room](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_room.md)'s [exits](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_exit.md) and checks if there is an [exit](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_exit.md) that has a dir that corresponds to the supplied dir. If there is, it checks to see if the exit's isLocked is false. If it is, it calls the rooms leave_by() method to leave the
+gets the list of the current [room](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_room.md)'s [exits](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#exit) and checks if there is an [exit](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_exit.md) that has a dir that corresponds to the supplied dir. If there is, it checks to see if the exit's isLocked is false. If it is, it calls the rooms leave_by() method to leave the
 current room and enter the selected exits destination room.
 
 ### details(Self) –

@@ -1,6 +1,6 @@
 # room
 
-a 'room' represents a single location in a [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/CLS_LocationMap.md).
+a 'room' represents a single location in a [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_LocationMap.md).
 
 ## fields
 
@@ -40,7 +40,7 @@ an int representing how well it the room. 0 is total darkness, 10 is "bright day
 
 ### non_player_characters
 
-A list containing other [character](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/CLS_character.md) objects
+A list containing other [character](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_character.md) objects
 
 ### enviroment_type
 
