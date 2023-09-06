@@ -72,7 +72,7 @@ Skill objects represent a proficiency in a particular type of action that a char
 
 Talent objects represent innate abilities and physical traits that a character may have. For instance, a character may have been raised among nobility, granting them a bonus to all tests that involve a member of the nobility.
 
-### Test
+### Stat Test
 
 A test is when a character attempts to do something that has a chance of failure where the result of failure is notable enough to be communicated to the player. Such tests include characteristic tests, skill tests, and combat tests. The general process of ‘testing’ is that you first determine the difficulty of the challenge to assign a “difficulty modifier” to the test. Then determine what value will determine a “success”. This is a number ranging from 1 to 99. A random number is rolled and any bonus that the character has in their favor is subtracted from the number. This final number is then compared to the number to determine success. If the number to determine success is higher then the final number, the test is passed.
 See also: Degrees of success/failure.
