@@ -44,10 +44,10 @@ a dictionary containing strings that are called for various descriptions. The ke
 •	door description
 
 ## methods
+<dl>
+<dt>describe</dt>
+<dd>returns a description containing an exit and its associated destination.</dd>
 
-### describe–
-
-returns a description containing an exit and its associated destination.
-
-switchLock–
-: changes the isLocked attribute to its other state, false if already true and true is already false. 
+<dt>switchLock</dt>
+<dd>changes the isLocked attribute to its other state, false if already true and true is already false. </dd>
+</dl>
