@@ -70,7 +70,7 @@
 <dd>removes the first instance of <i>item</i> from character's inventory.</dd>
 
 <dt>equip_item(item,location)</dt>
-<dd>equips <i>item</i> to <i>location<i>, removing it from the character's inventory.</dd>
+<dd>equips <i>item</i> to <i>location</i>, removing it from the character's inventory.</dd>
 <dt>unequip_item(item)</dt>
 <dd>unequips <i>item</i> from its current location and returns it to character's inventory.</dd>
 <dt>add_trait(trait)</dt>
