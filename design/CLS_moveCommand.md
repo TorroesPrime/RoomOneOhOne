@@ -2,6 +2,8 @@
 
 Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
 
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/cmd_move.png)
+
 ## fields
 
 ### command_name –
