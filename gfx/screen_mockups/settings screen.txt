@@ -1,0 +1,10 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Game Options:                                                                                   |
+| 1 - Display Settings                                                                            |
+| 2 - Export Settings                                                                             |
++-------------------------------------------------------------------------------------------------+
+Type the number of the setting you wish to view or change
+or type'quite' to return to Adventure listing.
+>>>

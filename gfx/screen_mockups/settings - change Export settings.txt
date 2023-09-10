@@ -1,0 +1,20 @@
+Change Export settings
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Character sheet settings:                                                                |
+| Current Settings:                                                                               |
+| 1 - Export Location: "C:\Documents\TPTAS-Character Sheets\"                                     |
+| 2 - Include character Inventory Listing: Yes                                                    |
+| 3 - Include full Item details: Yes                                                              |
+| 4 - Include adventure Module Information: Yes                                                   |
+| 5 - Include character Skills: Yes                                                               |
+| 6 - Include skill Info: Yes                                                                     |
+| 7 - Include full Weapon Information: Yes                                                        |
+| 8 - Export Format: HTML
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number of the export option you wish to change
+Type 'help' followed by the number of the option you want more informatation about.
+or type "back" - Return to the Export Character Screen
+>>> 

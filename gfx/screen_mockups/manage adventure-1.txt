@@ -1,0 +1,116 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Manage Adventure: Sanction of the Emperor                                                       |
++--------+---------------------------------------+------------------------------------------------+
+| Author | Author: WolfGameDev                   | Publish Date: January - 10 - 2020              |
++--------+---------------------------------------+------------------------------------------------+
+| Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis    |
+| lacus mauris, facilisis eleifend quam quis, mattis varius ante. Mauris at elit et orci          |
+| imperdiet convallis id tempor neque. Nam vel ex a massa sagittis tincidunt quis ut nunc.        |
+| Maecenas volutpat est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in, posuere     |
+| nisl. Vestibulum id ante in erat bibendum malesuada et vel odio.                                |
+|                                                                                                 |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo ex, commodo eu tincidunt  |
+| vitae, pharetra non tellus. Donec vel ipsum nec leo bibendum euismod. Nunc euismod tempor magna |
+| ac hendrerit. Ut quis neque sit amet leo lacinia gravida. Praesent massa erat, mollis quis neque|
+| at, elementum rhoncus lectus. Donec laoreet mi at risus sodales accumsan. Vivamus dui sem,      |
+| tristique et sem volutpat, porttitor luctus metus.                                              |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+type 'start' to begin a new game with this adventure 
+type "delete' to delete this Adventure module.
+or type "back" - Return to the character listing menu
+>>>
+
+
+Screen width: 76 x 50
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   |
++--------------------------------------------------------------------------+
+| Manage Adventure: Sanction of the Emperor                                |
++--------+----------------------------------+------------------------------+
+| Author | Author: WolfGameDev              | Publish Date: 01 - 10 - 2020 |
++--------+----------------------------------+------------------------------+
+| Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere |
+| cubilia curae; Duis lacus mauris, facilisis eleifend quam quis, mattis   |
+| varius ante. Mauris at elit et orci imperdiet convallis id tempor neque. |
+| Nam vel ex a massa sagittis tincidunt quis ut nunc. Maecenas volutpat    |
+| est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in,        |
+| posuere nisl. Vestibulum id ante in erat bibendum malesuada et vel odio. |
+|                                                                          |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo    |
+| ex, commodo eu tincidunt vitae, pharetra non tellus. Donec vel ipsum nec |
+| leo bibendum euismod. Nunc euismod tempor magna ac hendrerit. Ut quis    |
+| neque sit amet leo lacinia gravida. Praesent massa erat, mollis quis     |
+| at, elementum rhoncus lectus. Donec laoreet mi at risus sodales          | 
+| accumsan. Vivamus dui sem, tristique et sem volutpat, porttitor luctus   |
+| metus.                                                                   |
++--------------------------------------------------------------------------+
+Availible Options:
+type 'start' to begin a new game with this adventure 
+type "delete' to delete this Adventure module.
+or type "back" - Return to the character listing menu
+>>>
+
+<if the length of the description makes the module screen height greater then console height>
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   |
++--------------------------------------------------------------------------+
+| Manage Adventure: Sanction of the Emperor                                |
++--------+----------------------------------+------------------------------+
+| Author | Author: WolfGameDev              | Publish Date: 01 - 10 - 2020 |
++--------+----------------------------------+------------------------------+
+| Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere |
+| cubilia curae; Duis lacus mauris, facilisis eleifend quam quis, mattis   |
+| varius ante. Mauris at elit et orci imperdiet convallis id tempor neque. |
+| Nam vel ex a massa sagittis tincidunt quis ut nunc. Maecenas volutpat    |
+| est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in,        |
+| posuere nisl. Vestibulum id ante in erat bibendum malesuada et vel odio. |
+|                                                                          |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo    |
+| ex, commodo eu tincidunt vitae, pharetra non tellus. Donec vel ipsum nec |
+| leo bibendum euismod. Nunc euismod tempor magna ac hendrerit. Ut quis    |
+| neque sit amet leo lacinia gravida. Praesent massa erat, mollis quis     |
+| at, elementum rhoncus lectus. Donec laoreet mi at risus sodales          | 
+| accumsan. Vivamus dui sem, tristique et sem volutpat, porttitor luctus   |
+| metus. Etiam volutpat lobortis pellentesque. Vestibulum gravida metus    |
+| nulla, ac blandit tellus tincidunt at. Fusce mollis, metus nec ...       |
++--------------------------------------------------------------------------+
+Availible Options:
+type 'next' to view the next page of the module description
+type 'start' to begin a new game with this adventure 
+type "delete' to delete this Adventure module.
+or type "back" - Return to the character listing menu
+>>>
+
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   |
++--------------------------------------------------------------------------+
+| Manage Adventure: Sanction of the Emperor                                |
++--------+----------------------------------+------------------------------+
+| Author | Author: WolfGameDev              | Publish Date: 01 - 10 - 2020 |
++--------+----------------------------------+------------------------------+
+| ... ante ipsum primis in faucibus orci luctus et ultrices posuere        |
+| cubilia curae; Duis lacus mauris, facilisis eleifend quam quis, mattis   |
+| varius ante. Mauris at elit et orci imperdiet convallis id tempor neque. |
+| Nam vel ex a massa sagittis tincidunt quis ut nunc. Maecenas volutpat    |
+| est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in,        |
+| posuere nisl. Vestibulum id ante in erat bibendum malesuada et vel odio. |
+|                                                                          |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris justo    |
+| ex, commodo eu tincidunt vitae, pharetra non tellus. Donec vel ipsum nec |
+| leo bibendum euismod. Nunc euismod tempor magna ac hendrerit. Ut quis    |
+| neque sit amet leo lacinia gravida. Praesent massa erat, mollis quis     |
+| at, elementum rhoncus lectus. Donec laoreet mi at risus sodales          | 
+| accumsan. Vivamus dui sem, tristique et sem volutpat, porttitor luctus   |
+| metus. Etiam volutpat lobortis pellentesque. Vestibulum gravida metus    |
+| nulla, ac blandit tellus tincidunt at. Fusce mollis, metus nec ...       |
++--------------------------------------------------------------------------+
+Availible Options:
+type 'prev' to view the next page of the module description
+type 'next' to view the next page of the module description
+type 'start' to begin a new game with this adventure 
+type "delete' to delete this Adventure module.
+or type "back" - Return to the character listing menu
+>>>

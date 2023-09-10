@@ -1,0 +1,13 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| Now you get to select a first name and last name for your character.                            |
++-------------------------------------------------------------------------------------------------+
+If you have already a first and last name picked out, you may type them in seperating the first 
+name from the last name by using a '||'. Example: Johnathan Grand || Da Void                    
+                                                                                               
+type "choose" if you would like the game to supply some options you can pick from.
+type "random" if you would like the system to randomly select a first and last name for you.
+or Type 'quit' to abort character creation process and return to the 
+>>> 

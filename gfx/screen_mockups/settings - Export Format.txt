@@ -1,0 +1,16 @@
+export setting help screen - Export Format
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Format - HTML                                                                            | 
+| Character sheets can be exported in several different formats.                                  |
+| HTML - Will include colored text, tables, and a menu to allow you to jump to a speccific section|
+|        of the character sheet. Viewable with any web browser such as Chrome, Safair, or Edge.   |
+| Text - Text only. Very small file size. No color or links to sections.                          |
+| XML - Data is marked and can be used to identify it for use in other systems.                   |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "Text" to change the "Export Format" to Text
+Type "XML" to change the "Export Format" to XML
+or type "back" to Return to the Export Character Screen
+>>>

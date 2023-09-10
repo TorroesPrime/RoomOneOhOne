@@ -1,0 +1,19 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| You have a couple options when it comes to creating a new charater. The first option you have   |
+| is to simple have the system generate a random character. If you choose this option, then the   |
+| core characteristics, character class, gender, first name, last name and starting equipment will|
+| all be randomly determined and assigned. The character will start with 0 expierence to spend, 0 |
+| money to spend, 10,000 total expierence earned, and 500 krowns worth of starting equipment.     |
+|                                                                                                 |
+| The second option is that you can will be guided through each stage of the character creation   |
+| process, starting with the character gender, then character name, character class, core         |
+| characteristics, bonuses, the purchasing of additional skills, and finally purchasing the       |
+| character's starting equipment. At each stage you will be given an option to have the system    |
+| provide options that you can select from for that category.                                     |
++-------------------------------------------------------------------------------------------------+
+Type 'auto' to generate a new character
+or Type'guide' to begin manually creating a character
+>>> 

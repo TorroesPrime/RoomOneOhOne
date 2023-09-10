@@ -1,0 +1,14 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| Suggestions for first name:                                                                     |
+| 1- Naj        2- Aristide 3- Charlabelle 4- Jeremiah 5- Valerius 6- Kinker  7- Salgut           |
+| 8- Krawkin    9- Abel     10- Erasmus    11- Baxilik 12- Jonquin 13- Djanko 14- Sarvus          |
+| 15- Wrath     16-Tanak    17- Calligos   18- Artho   19- Bron    20- Carno  21- Hob             |
++-------------------------------------------------------------------------------------------------+
+
+type the number of the first name you would like to select
+type "more" if you would like other options to select from.
+or Type 'quit' to abort character creation process and return to the character management screen.
+>>> 

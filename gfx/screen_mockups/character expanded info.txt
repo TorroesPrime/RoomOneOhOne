@@ -1,0 +1,67 @@
+View expanded Informaiton
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "Santion of the Emperor"                                  |
++-------------------------------------------------+----------------+------------------------------+
+|              Core Characteristics               |  Total Wounds: 999 | Current Wounds: 999      |
++-------------------------------------------------+-------------------+---------------------------+
+| WS | BS | Str | Tgh | Ag | Int | Per | WP | Chr |             Current Fatigue: 999              |
++----+----+-----+-----+----+-----+-----+----+-----+-----------------------------------------------+
+| 99 | 99 |  99 |  99 | 99 |  99 |  99 | 99 |  99 | Current Carried Weight: 9,999 pounds          |
++-------------------------------------------------------------------------------------------------+
+| Pastor Antias von Castellan is also particapating in the following adventures:                  |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Santion of the Emperor                  | Author: WolfGameDev                             |
++=================================================================================================+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Next Page of Expanded Information 2- View Character Sheet 3 - Delete Character 
+4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 
+
+
+
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "The Empty Coffin"                                        |
++-------------------------------------------------------------------------------------------------+
+| Pastor Antias von Castellan is also particapating in the following adventures:                  |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Sektar's Wraith                         | Author: Amble Bright                            |
++=================================================================================================+
+|| Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis  ||
+|| lacus mauris, facilisis eleifend quam quis, mattis varius ante. Mauris at elit et orci        ||
+|| imperdiet convallis id tempor neque. Nam vel ex a massa sagittis tincidunt quis ut nunc.      ||
+|| Maecenas volutpat est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in, posuere   ||
+|| nisl. Vestibulum id ante in erat bibendum malesuada et vel odio.                              ||
++=================================================================================================+
+| Name: The Empty Coffin                        | Author: Jenivere919                             |
+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Previous Page of Expanded Information 2 - View next page of Expanded Information 
+3- View Character Sheet 3 - Delete Character 4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 
+
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "The Empty Coffin"                                        |
++-------------------------------------------------------------------------------------------------+
++=================================================================================================+
+|| Cras eu pulvinar lorem. Nam tincidunt nisl vel orci accumsan, at consectetur nulla porta.     ||
+|| Curabitur vulputate nunc et mauris tempor dignissim sit amet a nulla. Nam vestibulum, metus   ||
+|| eget vestibulum vulputate, magna nibh semper nisl, a dictum felis ex at lacus. Suspendisse    || 
+|| potenti. Etiam sit amet sem quis lacus vehicula condimentum. Proin sed libero eget libero     ||
+|| accumsan euismod in eu eros. Nam non posuere ante.                                            ||
++=================================================================================================+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Previous Page of Expanded Information 2- View Character Sheet 3 - Delete Character 
+4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 

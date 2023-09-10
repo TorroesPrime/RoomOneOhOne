@@ -1,0 +1,14 @@
+export setting help screen - Include full Weapon Information
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include full Weapon Information - No                                                            | 
+| If this option is set to yes, exported character sheets will include a breakdown for each weapon|
+| the character has at the time the sheet is exported. This break down will include the weapons's |
+| name, type, damage, penetration, special effect, cost, and description. If it is set to 'no'    |
+| then the exported character sheet will only list the weapon's name and type.                    |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include full Weapon Information" to Yes
+or type "back" to Return to the Export Character Screen
+>>>

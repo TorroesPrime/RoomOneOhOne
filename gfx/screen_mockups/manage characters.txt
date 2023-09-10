@@ -1,0 +1,273 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| The following characters were found and are availible                                           |
++-------------------------------------------------------------------------------------------------+
+|       | Name                          | Class       | Level | Total XP | Last Played            |
+|  1  - | Diaz Lan                      | Void Trader |   99  |  999,999 | September - 22 - 2021  |
+|  2  - | Arkus Lann                    | Void Trader |    9  |   21,618 |  November - 21 - 2018  |
+|  3  - | Markus Cole                   | Void Trader |   14  |   30,800 | September -  9 - 2018  |
+|  4  - | Bruce Wayne                   | Void Trader |   18  |   39,580 |       May - 22 - 2019  |
+|  5  - | Thomas Laskey                 | Void Trader |   20  |   45,795 |     April - 24 - 2020  |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+or type "quit" - Return to the main menu
+>>> 
+
+
+Character Options
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "The Empty Coffin"                                        |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Expanded Information 2- View Character Sheet 3 - Delete Character 
+4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 
+
+
+View expanded Informaiton
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "The Empty Coffin"                                        |
++--------------------------------------------+----+----------------+------------------------------+
+|              Core Characteristics               |  Total Wounds: 999 | Current Wounds: 999      |
++-------------------------------------------------+-------------------+---------------------------+
+| WS | BS | Str | Tgh | Ag | Int | Per | WP | Chr |             Current Fatigue: 999              |
++----+----+-----+-----+----+-----+-----+----+-----+-----------------------------------------------+
+| 99 | 99 |  99 |  99 | 99 |  99 |  99 | 99 |  99 | Current Carried Weight: 9,999 pounds          |
++----------------------------------------------------+--------------------------------------------+
+| Pastor Antias von Castellan is also particapating in the following adventures:                  |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Santion of the Emperor                  | Author: WolfGameDev                             |
++=================================================================================================+
+|| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla purus urna,        ||
+|| scelerisque suscipit libero maximus vitae. Vivamus volutpat, libero ac imperdiet auctor, justo||
+|| diam elementum dui, vel bibendum dui libero sit amet lacus. Pellentesque tincidunt turpis sed ||
+|| est tristique, nec cursus ipsum fringilla. Cras porttitor, leo sed commodo vehicula, enim     ||
+|| neque accumsan magna, vel congue orci elit non elit. Nunc et dignissim nulla, vitae semper ...||
++=================================================================================================+
+| Name: Sektar's Wraith                         | Author: Amble Bright                            |
++=================================================================================================+
+|| Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis  ||
+|| lacus mauris, facilisis eleifend quam quis, mattis varius ante. Mauris at elit et orci        ||
+|| imperdiet convallis id tempor neque. Nam vel ex a massa sagittis tincidunt quis ut nunc.      ||
+|| Maecenas volutpat est vel sem imperdiet eleifend. In et sem porta, ornare ipsum in, posuere   ||
+|| nisl. Vestibulum id ante in erat bibendum malesuada et vel odio.                              ||
++=================================================================================================+
+| Name: The Empty Coffin                        | Author: Jenivere919                             |
++=================================================================================================+
+|| Cras eu pulvinar lorem. Nam tincidunt nisl vel orci accumsan, at consectetur nulla porta.     ||
+|| Curabitur vulputate nunc et mauris tempor dignissim sit amet a nulla. Nam vestibulum, metus   ||
+|| eget vestibulum vulputate, magna nibh semper nisl, a dictum felis ex at lacus. Suspendisse    || 
+|| potenti. Etiam sit amet sem quis lacus vehicula condimentum. Proin sed libero eget libero     ||
+|| accumsan euismod in eu eros. Nam non posuere ante.                                            ||
++=================================================================================================+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Next Page of Expanded Information 2- View Character Sheet 3 - Delete Character 
+4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 
+
+
+Delete character
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+You are about to delete the character: Pator Antias von Castellan
+This action can not be undone, and will also delete 4 in progress adventures including:
++-----------------------------------------------+-------------------------------------------------+
+| Name: The Empty Coffin                        | Last Played: Janu-08-2022 15:18:51              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Santion of the Emperor                  | Last Played:  May-06-2022 11:54:54              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Sektar's Wraith                         | Last Played: Apri-24-2022 12:29:36              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: The Empty Coffin                        | Last Played: Marc-10-2021 15:18:51              |
++-----------------------------------------------+-------------------------------------------------+
+Please type the character name "Pator Antias von Castellan" to confirm that you want to delete 
+this character or type "back" to abord and return to the character menu
+>>> 
+
+Export Character sheet
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+You are about to export the full character sheet for this character. By default this will be 
+placed in a folder in your Documents library named "TPTAS-Character Sheets". 
+
+1 - accept default settings and export character sheet
+2 - change settings before export
+ or type "back" - Return to the character listing menu 
+>>> 
+
+
+
+Change Export settings
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Character sheet settings:                                                                |
+| Current Settings:                                                                               |
+| 1 - Export Location: "C:\Documents\TPTAS-Character Sheets\"                                     |
+| 2 - Include character Inventory Listing: Yes                                                    |
+| 3 - Include full Item details: Yes                                                              |
+| 4 - Include adventure Module Information: Yes                                                   |
+| 5 - Include character Skills: Yes                                                               |
+| 6 - Include skill Info: Yes                                                                     |
+| 7 - Include full Weapon Information: Yes                                                        |
+| 8 - Export Format: HTML
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number of the export option you wish to change
+Type 'help' followed by the number of the option you want more informatation about.
+or type "back" - Return to the Export Character Screen
+>>> 
+
+export setting help screen - Export Location
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Location: "C:\Documents\TPTAS-Character Sheets\"                                         |
+| The 'Export Location' is the location in your computer's file system where the exported file    |
+| will be placed. By default this is a folder named "TPTAS-Character Sheets" in your Documents    |
+| folder.                                                                                         |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the export location
+or type "back" to Return to the Export Character Screen
+>>> 
+
+export setting screen - Change Export Location
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Current export Location: "C:\Documents\TPTAS-Character Sheets\"                                 |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Please type the full path to the location you wish to save exported character sheets
+or type "back" to Return to the Export Character Screen
+>>> 
+
+
+export setting help screen - Inventory Listing
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include character Inventory Listing - Yes                                                       | 
+| The Inventory listing is an item by item listing of everything current carried by a selected    |
+| character. If the full item details option is set to 'no' this will only list the item name. If |
+| it is set to 'yes' this will include the item weight, description, in-game effects, and value.  |
+| If the Inventory Listing is turned off, then exported character sheets will not include any     |
+| inventory listing.                                                                              |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to not include the Inventory Listing in exported Character sheets
+or type "back" to Return to the Export Character Screen
+>>>
+
+export setting help screen - full Item details
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include full Item details - Yes                                                                 | 
+| If full Item details is turned on, and the Inventory listing is turned on, then exported        |
+| character sheets will include an item by item listing of everything in their inventory. This    |
+| listing will include the weight, description, in-game effects, and values of each item.         |                                                             
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "fill item details" to No
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+export setting help screen - Include adventure Module Information
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include adventure module information - Yes                                                      | 
+| Characters may be used in multiple adventures. If this option is set to 'yes', then the         |
+| character's exported character sheet will include information about what adventure modules thay |
+| have been used in.                                                                              |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include adventure Module Information" to No
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+export setting help screen - Include character Skills
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include character Skills - Yes                                                                  | 
+| If this option is set to yes, exported character sheets will include a list of each skill the   |
+| character posses.                                                                               | 
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include character Skills" to No
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+export setting help screen - Include skill Info
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include skill Info - Yes                                                                        | 
+| If this option is set to yes, and the 'Include character Skills' option is set to 'yes' then    |
+| exported character sheets will include a description, relevent characteristic, level, and name  |
+| for each skill the character has.                                                               | 
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include skill Info" to No
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+export setting help screen - Include full Weapon Information
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include full Weapon Information - No                                                            | 
+| If this option is set to yes, exported character sheets will include a breakdown for each weapon|
+| the character has at the time the sheet is exported. This break down will include the weapons's |
+| name, type, damage, penetration, special effect, cost, and description. If it is set to 'no'    |
+| then the exported character sheet will only list the weapon's name and type.                    |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include full Weapon Information" to Yes
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+export setting help screen - Export Format
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Format - HTML                                                                            | 
+| Character sheets can be exported in several different formats.                                  |
+| HTML - Will include colored text, tables, and a menu to allow you to jump to a speccific section|
+|        of the character sheet. Viewable with any web browser such as Chrome, Safair, or Edge.   |
+| Text - Text only. Very small file size. No color or links to sections.                          |
+| XML - Data is marked and can be used to identify it for use in other systems.                   |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "Text" to change the "Export Format" to Text
+Type "XML" to change the "Export Format" to XML
+or type "back" to Return to the Export Character Screen
+>>>

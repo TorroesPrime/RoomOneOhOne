@@ -1,0 +1,46 @@
+Delete character
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| You are about to delete the character: Pator Antias von Castellan                               |
+| This action can not be undone, and will also delete the following in-progress adventures:       |
++-----------------------------------------------+-------------------------------------------------+
+| Name: The Empty Coffin                        | Last Played: Janu-08-2022 15:18:51              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Sanction of the Emperor                 | Last Played:  May-06-2022 11:54:54              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: Sektar's Wraith                         | Last Played: Apri-24-2022 12:29:36              |
++-----------------------------------------------+-------------------------------------------------+
+| Name: The Empty Coffin                        | Last Played: Marc-10-2021 15:18:51              |
++-----------------------------------------------+-------------------------------------------------+
+Please type the character name "Pator Antias von Castellan" to confirm that you want to delete 
+this character or type "back" to abort and return to the character menu
+>>> 
+
+
+Screen width: 76 x 50
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   | 
++--------------------------------------------+-----------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader          |
++------------------------------+-------------------------------------------+
+| Total XP: 999,999,999        |                                           |
++--------------------------------------------+-----------------------------+
+| NOTICE: You are about to delete this character.                          |
+| This action can not be undone, and will also delete the following 4      |
+| in-progress adventures:                                                  |
++---------------------------------+----------------------------------------+
+| Name: The Empty Coffin          | Last Played: Janu-08-2022 15:18:51     |
++---------------------------------+----------------------------------------+
+| Name: Santion of the Emperor    | Last Played:  May-06-2022 11:54:54     |
++---------------------------------+----------------------------------------+
+| Name: Sektar's Wraith           | Last Played: Apri-24-2022 12:29:36     |
++---------------------------------+----------------------------------------+
+| Name: The Empty Coffin          | Last Played: Marc-10-2021 15:18:51     |
++---------------------------------+----------------------------------------+
+  Please type the following command: "Delete: Pator Antias von Castellan" 
+ exactly as shown, not including the " ", to confirm that you want to delete 
+ this character or type "back" to abort and return to the character menu
+>>> 

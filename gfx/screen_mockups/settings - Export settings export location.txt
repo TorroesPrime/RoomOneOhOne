@@ -1,0 +1,13 @@
+export setting help screen - Export Location
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Export Location: "C:\Documents\TPTAS-Character Sheets\"                                         |
+| The 'Export Location' is the location in your computer's file system where the exported file    |
+| will be placed. By default this is a folder named "TPTAS-Character Sheets" in your Documents    |
+| folder.                                                                                         |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the export location
+or type "back" to Return to the Export Character Screen
+>>> 

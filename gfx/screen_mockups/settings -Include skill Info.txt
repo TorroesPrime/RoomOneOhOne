@@ -1,0 +1,50 @@
+export setting help screen - Include skill Info
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include skill Info - Yes                                                                        | 
+| If this option is set to yes, and the 'Include character Skills' option is set to 'yes' then    |
+| exported character sheets will include a description, relevent characteristic, level, and name  |
+| for each skill the character has.                                                               | 
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include skill Info" to No
+or type "back" to Return to the Export Character Screen
+>>>
+
+
+Screen width: 76 x 50
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   | 
++--------------------------------------------------------------------------+
+| Include skill Info - Yes                                                 | 
+| If this option is set to yes, and the 'Include character Skills' option  |
+| is set to 'yes' then exported character sheets will include a            |
+| description, relevent characteristic, and name for each skill the        |
+| character has.                                                           | 
+|==========================================================================|
+|==========================Example of Skill info ==========================|
++-----------------------+-------------------------+------------------------+
+| Skill Name            | Testing Characteristic  |                        |
+| Awareness             | Agility                 |                        |
+|----Description--------+-------------------------+------------------------|
+| Awareness encompasses the Explorer’s subconscious ability to react to    |
+| things his conscious mind may not perceive. He can use this Skill to     |
+| notice threats—such as ambushes, traps, or cleverly hidden objects—or    |
+| slight changes in the environment—such as a faint vibration in the deck  |
+| plating or the smell of the air recyclers.                               |
+|==========================================================================|
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
+|                                                                          |
++--------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include skill Info" to No
+or type "back" to Return to the Export Character Screen
+>>>

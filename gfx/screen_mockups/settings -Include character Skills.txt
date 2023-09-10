@@ -1,0 +1,12 @@
+export setting help screen - Include character Skills
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include character Skills - Yes                                                                  | 
+| If this option is set to yes, exported character sheets will include a list of each skill the   |
+| character posses.                                                                               | 
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include character Skills" to No
+or type "back" to Return to the Export Character Screen
+>>>

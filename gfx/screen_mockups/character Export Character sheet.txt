@@ -1,0 +1,13 @@
+Export Character sheet
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+You are about to export the full character sheet for this character. By default this will be 
+placed in a folder in your Documents library named "TPTAS-Character Sheets". 
+
+1 - accept default settings and export character sheet
+2 - change settings before export
+ or type "back" - Return to the character listing menu 
+>>> 

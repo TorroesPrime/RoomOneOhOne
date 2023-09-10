@@ -1,0 +1,156 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| The following adventure modules were found                                                      |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                                                   |
++-----+---------------------------------------+---------------------------------------------------+
+|  1  | Author: WolfGameDev                   | Publish Date: January - 10 - 2020                 |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Sektar's Wraith                                                           |
++-----+---------------------------------------+---------------------------------------------------+
+|  2  | Author: Amble Bright                  | Publish Date: Marsh - 04 - 2020                   |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+
+Availible Options:
+Type the number of the Adventure you wish to manage
+Type 'next' to view next page of Adventure Modules
+Type 'quit' to return to the main menu
+>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Screen width: 76
++--------------------------------------------------------------------------+
+|                  Torroes Prime's Text Adventure System                   | 
++--------------------------------------------------------------------------+
+| The following adventure modules were found:                              |    
++-----+--------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                            |
++-----+---------------------------------------+----------------------------+
+|  1  | Author: WolfGameDev                   | Publish Date: 01-10-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+--------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                            |
++-----+---------------------------------------+----------------------------+
+|  1  | Author: WolfGameDev                   | Publish Date: 01-10-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+--------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                            |
++-----+---------------------------------------+----------------------------+
+|  2  |  Author: Amble Bright                 | Publish Date: 03-04-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+--------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                            |
++-----+---------------------------------------+----------------------------+
+|  3  | Author: Author: Jenivere919           | Publish Date: 02-11-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+---------------------------------------+----------------------------+
+|  4  | Author: Author: DCNotor2020           | Publish Date: 04-11-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+---------------------------------------+----------------------------+
+|  5  | Author: Author: Thrak'ath9901         | Publish Date: 05-02-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++-----+---------------------------------------+----------------------------+
+|  6  | Author: Author: Guin9109              | Publish Date: 06-21-2020   |
++-----+---------------------------------------+----------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras            |
+| condimentum mi euismod est malesuada, vitae dapibus nunc ornare. Donec...|
++--------------------------------------------------------------------------+
+Availible Options:
+Type the number of the Adventure you wish to start
+Type 'next' to view next page of Adventure Modules
+Type 'quit' to return to the main menu
+>>>
+
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| The following adventure modules were found and are availible                                    |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Sanction of the Emperor                                                   |
++-----+---------------------------------------+---------------------------------------------------+
+|  1  | Author: WolfGameDev                   | Publish Date: January - 10 - 2020                 |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Sektar's Wraith                                                           |
++-----+---------------------------------------+---------------------------------------------------+
+|  2  | Author: Amble Bright                  | Publish Date: Marsh - 04 - 2020                   |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: The Empty Coffin                                                          |
++-----+---------------------------------------+---------------------------------------------------+
+|  3  | Author: Jenivere919                   | Publish Date: February - 11 - 2020                |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: The Didact's Hand                                                         |
++-----+---------------------------------------+---------------------------------------------------+
+|  4  | Author: DCNotor2020                   | Publish Date: April - 20 - 2020                   |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Where no one has gone before...                                           |
++-----+---------------------------------------+---------------------------------------------------+
+|  5  | Author: Thrak'ath9901                 | Publish Date: May - 02 - 2020                     |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Devil under the skin                                                      |
++-----+---------------------------------------+---------------------------------------------------+
+|  6  | Author: Guin9109                      | Publish Date: June - 21 - 2020                    |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+| Num | Adventure Name: Forever in the shadow of the moon                                         |
++-----+---------------------------------------+---------------------------------------------------+
+|  7  | Author: Dayoo Inc.                    | Publish Date: June - 09 - 2020                    |
++-----+-------------------------------------------------------------------------------------------+
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras condimentum mi euismod est        |
+| malesuada, vitae dapibus nunc ornare. Donec accumsan diam vel laoreet porta. Sed ...            |
++-----+-------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number of the Adventure you wish to start
+Type 'next' to view next page of Adventure Modules
+Type 'quit' to return to the main menu
+>>>

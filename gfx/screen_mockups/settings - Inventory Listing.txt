@@ -1,0 +1,15 @@
+export setting help screen - Inventory Listing
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include character Inventory Listing - Yes                                                       | 
+| The Inventory listing is an item by item listing of everything current carried by a selected    |
+| character. If the full item details option is set to 'no' this will only list the item name. If |
+| it is set to 'yes' this will include the item weight, description, in-game effects, and value.  |
+| If the Inventory Listing is turned off, then exported character sheets will not include any     |
+| inventory listing.                                                                              |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to not include the Inventory Listing in exported Character sheets
+or type "back" to Return to the Export Character Screen
+>>>

@@ -1,0 +1,13 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| Suggestions for Last name:                                                                      |
+| 1- Amaradi  2- Anzaforr      3- Armelan  4- Armengarde 5- Bastille  6- Blitz    7- Borodin      |
+| 8- Chorda   9- Dallactarius 10- Drub     11- Falk      12- Feckward 13- Galfit  14- Gerrit      |
+| 15-Haarlock 16- Kim         17- Lee      18- Luftius   19- Saul     20- Scourge 21- Trask       |
++-------------------------------------------------------------------------------------------------+
+type the number of the last name you would like to select
+type "more" if you would like other options to select from.
+or Type 'quit' to abort character creation process and return to the character management screen.
+>>> 

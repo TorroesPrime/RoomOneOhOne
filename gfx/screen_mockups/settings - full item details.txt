@@ -1,0 +1,12 @@
+export setting help screen - full Item details
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include full Item details - Yes                                                                 | 
+| If full Item details is turned on, and the Inventory listing is turned on, then exported        |
+| character sheets will include an item by item listing of everything in their inventory. This    |
+| listing will include the weight, description, in-game effects, and values of each item.         | | If off, inventory listing will only include name and weight.                                    | +-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "fill item details" to No
+or type "back" to Return to the Export Character Screen
+>>>

@@ -1,0 +1,13 @@
+export setting help screen - Include adventure Module Information
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Include adventure module information - Yes                                                      | 
+| Characters may be used in multiple adventures. If this option is set to 'yes', then the         |
+| character's exported character sheet will include information about what adventure modules thay |
+| have been used in.                                                                              |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type "1" to change the "Include adventure Module Information" to No
+or type "back" to Return to the Export Character Screen
+>>>

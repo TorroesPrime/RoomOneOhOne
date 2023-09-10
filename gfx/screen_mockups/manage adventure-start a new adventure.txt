@@ -1,0 +1,20 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Start a New game                                                                                |
+| Adventure Module: Sanction of the Emperor                                                       |
+| You need to have a character to play as. You may select one of the following characters, or     |
+|create a new character.                                                                          |
++-------+-------------------------------+-------------+-------+----------+------------------------+
+|       | Name                          | Class       | Level | Total XP | Last Played            |
+|  1  - | Diaz Lan                      | Void Trader |   99  |  999,999 | September - 22 - 2021  |
+|  2  - | Arkus Lann                    | Void Trader |    9  |   21,618 |  November - 21 - 2018  |
+|  3  - | Markus Cole                   | Void Trader |   14  |   30,800 | September -  9 - 2018  |
+|  4  - | Bruce Wayne                   | Void Trader |   18  |   39,580 |       May - 22 - 2019  |
+|  5  - | Thomas Laskey                 | Void Trader |   20  |   45,795 |     April - 24 - 2020  |
++-------+-------------------------------+-------------+-------+----------+------------------------+
+Availible Options:
+Type the number of the character you wish to use for this adventure
+Type 'new' to create a new character
+or type'quite' to return to Adventure listing.
+>>>

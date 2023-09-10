@@ -1,0 +1,16 @@
+Character Options
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++--------------------------------------------+---------------------+------------------------------+
+| Character Name: Pator Antias von Castellan | Class: Void Trader  | Total XP: 999,999,999        |
++--------------------------------------------+----------------------------------------------------+
+| Last Played: Sept-22-2021 19:20:04 in "The Empty Coffin"                                        |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Type the number that corrosponds to the character you wish to view. 
+1 - View Expanded Information 
+2- View Character Sheet 
+3 - Delete Character 
+4 - export Character sheet 
+or type "back" - Return to the character listing menu
+>>> 

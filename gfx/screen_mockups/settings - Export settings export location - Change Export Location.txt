@@ -1,0 +1,25 @@
+export setting screen - Change Export Location
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Current export Location: "C:\Documents\TPTAS-Character Sheets\"                                 |
++-------------------------------------------------------------------------------------------------+
+Availible Options:
+Please type the full path to the location you wish to save exported character sheets
+or type "back" to Return to the Export Character Screen
+>>> 
+
+
+
+
+
+export setting screen - Change Export Location
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+| Current export Location: "C:\Documents\TPTAS-Character Sheets\"                                 |
++-------------------------------------------------------------------------------------------------+
+Directory "C:\Doucments\TPTAS-Character Sheets\" does not exist. Do you wish to create it?
+Type 'Yes' to confirm or type 'No' to enter a new file path
+>>> 
+

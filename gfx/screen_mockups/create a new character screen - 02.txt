@@ -1,0 +1,11 @@
++-------------------------------------------------------------------------------------------------+
+|                              Torroes Prime's Text Adventure System                              | 
++-------------------------------------------------------------------------------------------------+
+|                                                                                                 |
+| The first step in creating your character is selecting their gender presentation.               |
+|                   1 - femenine   2 - masculine 3 - non-binary                                   |
++-------------------------------------------------------------------------------------------------+
+Type the number that corrosponds with your selection
+Type'random' to have the system randomly select the character's gender presentation.
+or Type 'quit' to abort character creation process and return to the 
+>>> 
