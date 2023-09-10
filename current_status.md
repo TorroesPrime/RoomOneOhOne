@@ -26,7 +26,7 @@ Tasks to be completed in this phase:
 * [ ] create [Move command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_moveCommand.md)
 * [ ] create [Look command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_lookCommand.md)
 * [ ] create [help command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_helpCommand.md)
-* [ ] test move, look, and help commands
+* [ ] test move, look, and help commands with the use a simple test map that comprises 4 rooms and 8 exits.
 
 ![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations.drawio.png)
 
