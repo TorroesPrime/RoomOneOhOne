@@ -35,6 +35,12 @@ returns a string that is combination of the command_name, description and usageD
 attributes. Used when reading the help command for a given command.
 
 
->Room 101's command system uses an [verb] [item] [modifier] [target] structure, meaning the >first word of a command will be an action you wish to perform.  A few examples of verbs that >are commands include 'move', 'look', 'examine', and 'eat'. [target] is the target of the verb, >so in the case of "eat apple", 'eat' is the verb while 'apple' is the target. 
+> Room 101's command system uses an [verb] [item] [modifier] [target] structure, meaning the 
+> first word of a command will be an action you wish to perform.  A few examples of verbs that 
+> are commands include 'move', 'look', 'examine', and 'eat'. [target] is the target of the verb,
+> so in the case of "eat apple", 'eat' is the verb while 'apple' is the target. 
 >
->it is possible to execute more complex commands by supplying an [item] and a [modifier]. when >using an [item] and a [modifier] you are indicating that you wish to perform [verb] on the >[item] associated with [target]. For instance 'view stats of John Jones' is how you would view >the core stats for a character named John Jones. `
+> It is possible to execute more complex commands by supplying an [item] and a [modifier]. When 
+> using an [item] and a [modifier] you are indicating that you wish to perform [verb] on the 
+> [item] associated with [target]. For instance 'view stats of John Jones' is how you would view 
+> the core stats for a character named John Jones. 
