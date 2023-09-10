@@ -28,6 +28,7 @@ Tasks to be completed in this phase:
 * [ ] create help command
 * [ ] test move, look, and help commands
 
+
 ### Phase 2
 
 ### Objective: extend the interactivity from phase 1 to include interacting with items.

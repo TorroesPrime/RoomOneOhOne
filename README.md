@@ -4,7 +4,7 @@ Room 101 is a personal project intended to provide me a vehicle to push myself t
 
 ## Purpose of this project
 
-Primarily intended to be a personal project to give me a reason to push my skills in programming, documentation, and design.
+Primarily intended to be a personal project to give me a reason and means to push my skills in programming, documentation, and design.
 
 View [Current Status](current_status.md) to see the present standing of the project.
 
@@ -16,18 +16,10 @@ technologies used:
 
 ### Documentation
 
-Main Documentation
-
-> Main documentation for the project.
-
-[General Concepts](https://github.com/TorroesPrime/Text-Adventure-Game-Engine/blob/master/general%20concepts.md)
+[General Concepts](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md)
 
 > A listing of the general concepts in the project. Not a class/object list.
 
-[Commands List](https://github.com/TorroesPrime/Text-Adventure-Game-Engine/blob/master/design/commands.md)
-
-> A list of the commands that will be availible to use in the engine.
-
-[Classes](https://github.com/TorroesPrime/Text-Adventure-Game-Engine/blob/master/design/classes_documentation.md)
+[Classes](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/classes_documentation.md)
 
 > documentation of the classes in the engine.

@@ -26,10 +26,6 @@ values are the room objects associated with those names.
 
 a list of character objects.
 
-#### player_character –
-
-a character object that the player controls
-
 #### items –
 
 a list of item objects contained in this locationMap
