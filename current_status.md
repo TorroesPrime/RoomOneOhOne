@@ -23,9 +23,9 @@ Tasks to be completed in this phase:
 * [ ] create [interpreter ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#interpreter)class
 * [ ] create [command ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#command)class
 * [ ] create [CommandFactory ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#CommandFactory)class
-* [ ] create Move command
-* [ ] create Look command
-* [ ] create help command
+* [ ] create [Move command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_moveCommand.md)
+* [ ] create [Look command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_lookCommand.md)
+* [ ] create [help command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_helpCommand.md)
 * [ ] test move, look, and help commands
 
 ![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations.drawio.png)

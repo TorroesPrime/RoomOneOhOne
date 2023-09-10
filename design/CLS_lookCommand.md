@@ -1,6 +1,7 @@
 # LookCommand
-![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-command%20system-commands.drawio.png?raw=true)
 Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
+
+![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-command%20system-commands.drawio.png?raw=true)
 
 Allows the player to view a more detailed description of the room.
 ![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/cmd_look.png)
