@@ -2,9 +2,8 @@
 
 Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
 
-Allows the player to view a more detailed description of the
-
-room.
+Allows the player to view a more detailed description of the room.
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/cmd_look.png)
 
 ## fields
 
