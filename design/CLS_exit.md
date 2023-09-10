@@ -1,6 +1,8 @@
 # exit
 
-An exit is used to transport the player from one [room](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_room.md) to another. An exit from one room has a corresponding exit in the next room in the opposite direction, allowing the player to traverse between rooms as intended.
+An exit is used to transport the player from one [room](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_room.md) to another. Typically, an exit from one room has a corresponding exit in the next room in the opposite direction, allowing the player to traverse between rooms as intended.
+
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations-base%20relations-exit.drawio.png)
 
 ## fields
 <dl>

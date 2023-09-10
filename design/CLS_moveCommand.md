@@ -1,5 +1,5 @@
 # MoveCommand
-
+![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-command%20system-commands.drawio.png?raw=true)
 Inherites from [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_command.md) class.
 
 ![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/cmd_move.png)

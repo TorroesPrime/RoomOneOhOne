@@ -1,5 +1,5 @@
 # command
-
+![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-command%20system-commands.drawio.png?raw=true)
 ## fields
 
 ### command_name

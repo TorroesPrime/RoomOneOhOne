@@ -1,5 +1,5 @@
 # Interpreter
-
+![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-command%20system-interpreter.drawio.png?raw=true)
 the means of interaction between the player and the game
 itself. The player enters command in a **[verb][item][modifier][target]**
 syntax to the interpreter that then passes the string to the [commandFactory](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_interpreter.md).

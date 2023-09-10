@@ -2,6 +2,8 @@
 
 a 'room' represents a single location in a [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_LocationMap.md).
 
+![image](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/gfx/base%20relations-base%20relations-room.drawio.png)
+
 ## fields
 
 ### room_id

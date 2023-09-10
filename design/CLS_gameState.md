@@ -2,6 +2,8 @@
 
 a gameState object is a record of the present status and condition of everything in the game.
 
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations-base%20relations-gamestate.drawio.png)
+
 ## fields
 
 ### save_file_version –

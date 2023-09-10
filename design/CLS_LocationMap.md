@@ -2,6 +2,8 @@
 
 A locationMap contains at least 2 rooms with at least 1 exit leading from the first room to the second with one of those rooms designated as the “entry”.
 
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations-base%20relations-locationMap.drawio.png)
+
 ### fields
 
 #### filename –
