@@ -16,7 +16,7 @@ At this point, the project has only just started and is largely conceptual. My i
 
 Tasks to be completed in this phase:
 
-* [ ] create [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#locationmaphttps://) class
+* [ ] create [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#locationmap) class
 * [ ] create [room ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#room)class
 * [ ] create [exit ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#exit)class
 * [ ] create [GameState](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameState) class
@@ -28,6 +28,7 @@ Tasks to be completed in this phase:
 * [ ] create help command
 * [ ] test move, look, and help commands
 
+![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations.drawio.png)
 
 ### Phase 2
 
