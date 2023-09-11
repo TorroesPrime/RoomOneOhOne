@@ -27,18 +27,24 @@ Secondary objectives are tasks within an adventure that can be completed, but do
 
 a LocationMap is a collection of rooms that represents an area, such as a region in the country, a building, a starship, or a cave system. A LocationMap contains at least 1 room and has one room declared to be the ‘entry’ location. The entry is where a player starts in the LocationMap when they first start the adventure.
 
+see [locationMap class documentation](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_LocationMap.md) for more information.
+
 ### Room
 
 A room represents one location in a LocationMap. A room can have a “setting type”, ‘lighting’, a list of non-Player Characters, a list of items, a list of exits, a description, and a name of the room. The first time a player enters a room it, the interpreter will display the room name and the description. On subsequent visits, the interpreter will display only the room name. The player can use the ‘look’ command to view the room description.
 The ‘setting type’ is used to determine what type of the setting the room is.  Such settings could be “formal”, “decrepit”,” Technological”, “Primitive”, “disgusting” etc.
 
+see [room class documentation](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_room.md) for more information.
+
 ### Exit
 
 An exit represents a connection between two rooms, with one room being the source, and the second being a destination. Exits have a direction, a source room, a destination room, and a number.
+see [exit class documentiation](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_exit.md) for more informaiton.
 
 ### Character
 
 a character represents a person or animal that is comprised of a set of core characteristics, wounds, skills, talents, and an inventory. Characters can “equip” different sorts of items, such as arming themselves with a sword, or wearing a piece of clothing.
+See [character class documentation](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_character.md) for more information.
 
 ### Core Characteristics
 
