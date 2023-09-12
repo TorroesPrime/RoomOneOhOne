@@ -1,6 +1,6 @@
 # character
 
-a character represents a single individual in the game world. It is the primary object that the player will interact with. It is also the primary object that the game will interact with. The character object is designed to be as flexible as possible, allowing for a wide range of character types to be created. The character object is also designed to be as modular as possible, allowing for the addition of new features and functionality with minimal effort.
+a character represents a single individual in the game world. It is the primary object that the player will interact with. It is also the primary object that the game will interact with. The character object is designed to be as flexible as possible, allowing for a wide range of character types to be created. The character object is also design to be as modular as possible, allowing for the addition of new features and functionality with minimal effort.
 
 ![image](https://raw.githubusercontent.com/TorroesPrime/RoomOneOhOne/main/gfx/base%20relations-base%20relations-character.drawio.png)
 ## fields
