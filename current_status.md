@@ -12,17 +12,17 @@ At this point, the project has only just started and is largely conceptual. My i
 
 ### Phase 1
 
-**Objective: Be able to walk around a map and perform basic interactions with the map.**
+### Objective: Be able to walk around a map and perform basic interactions with the map
 
 Tasks to be completed in this phase:
 
 * [ ] create [locationMap](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#locationmap) class
-* [ ] create [room ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#room)class
-* [ ] create [exit ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#exit)class
+* [ ] create [room](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#room)class
+* [ ] create [exit](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#exit)class
 * [ ] create [GameState](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameState) class
-* [ ] create [interpreter ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#interpreter)class
-* [ ] create [command ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#command)class
-* [ ] create [CommandFactory ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#CommandFactory)class
+* [ ] create [interpreter](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#interpreter)class
+* [ ] create [command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#command)class
+* [ ] create [CommandFactory](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#CommandFactory)class
 * [ ] create [Move command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_moveCommand.md)
 * [ ] create [Look command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_lookCommand.md)
 * [ ] create [help command](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/design/CLS_helpCommand.md)
@@ -32,11 +32,11 @@ Tasks to be completed in this phase:
 
 ### Phase 2
 
-### Objective: extend the interactivity from phase 1 to include interacting with items.
+### Objective: extend the interactivity from phase 1 to include interacting with items
 
 Tasks to be completed in this phase:
 
-* [ ] create [GameItem ](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameItem)class
+* [ ] create [GameItem](https://github.com/TorroesPrime/RoomOneOhOne/blob/main/general_concepts.md#GameItem)class
 * [ ] impliment test character system
 * [ ] create take command
 * [ ] create drop command
@@ -88,7 +88,7 @@ Tasks to be completed in this phase:
 
 ### Phase 7
 
-### Objective: expand on the character class to incorporate equipping and removing items of clothing, and in-game effects such as modification to health and other statuses.
+### Objective: expand on the character class to incorporate equipping and removing items of clothing, and in-game effects such as modification to health and other statuses
 
 Tasks to be completed in this phase:
 
@@ -98,7 +98,7 @@ Tasks to be completed in this phase:
 
 ### Phase 8
 
-**Objective: Impliment talent and enviromental modifiers.**
+### Objective: Impliment talent and enviromental modifiers
 
 Tasks to be completed in this phase:
 
@@ -110,7 +110,7 @@ Tasks to be completed in this phase:
 
 ### Phase 9
 
-**Objective: Impliment basic combat system.**
+### Objective: Impliment basic combat system
 
 Tasks to be completed in this phase:
 
