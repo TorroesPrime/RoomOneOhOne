@@ -1,0 +1,49 @@
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Room 101: [Adventure name]                                                                                                                                                                           |
++----------+----------+-----------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  Wounds  |  Fatigue |   Moves   | Turns |                                                                                                                                                            |
+|     14   |     0    |   21,319  | 2188  |                                                                                                                                                            |
++----------+----------+-----------+-------+------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                      |
+| >>> move north                                                                                                                                                                                       |
+| Moving north, you enter the Northern tower.                                                                                                                                                          |
+| The northern tower is an elevated position built of carved white granite stone. THe stones are layered on one another to form the walls while the windows are framed by dark english oak. Lorem      |
+| ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet volutpat consequat mauris nunc congue nisi. Cursus metus aliquam eleifend |
+| mi. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Leo vel fringilla est ullamcorper eget. Bibendum at varius vel pharetra vel turpis. Sed vulputate mi sit amet mauris commodo. |
+| Sodales ut eu sem integer vitae. Ligula ullamcorper malesuada proin libero. Sem fringilla ut morbi tincidunt augue. Dolor sit amet consectetur adipiscing elit ut aliquam. Lorem sed risus ultricies |
+| tristique nulla aliquet. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Condimentum mattis pellentesque id nibh     |
+| tortor id. Feugiat in fermentum posuere urna nec tincidunt praesent. Tincidunt eget nullam non nisi est sit amet facilisis magna. Diam maecenas sed enim ut sem viverra aliquet eget sit. Quam       |
+| vulputate dignissim suspendisse in est.                                                                                                                                                              |
+| You can go:                                                                                                                                                                                          |
+|     west to Observatory.                                                                                                                                                                             |
+|     south to the main hall.                                                                                                                                                                          |
+|                                                                                                                                                                                                      |
+| >>> look                                                                                                                                                                                             |
+| The northern tower is an elevated position built of carved white granite stone. THe stones are layered on one another to form the walls while the windows are framed by dark english oak. Lorem      |
+| ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet volutpat consequat mauris nunc congue nisi. Cursus metus aliquam eleifend |
+| mi. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Leo vel fringilla est ullamcorper eget. Bibendum at varius vel pharetra vel turpis. Sed vulputate mi sit amet mauris commodo. |
+| Sodales ut eu sem integer vitae. Ligula ullamcorper malesuada proin libero. Sem fringilla ut morbi tincidunt augue. Dolor sit amet consectetur adipiscing elit ut aliquam. Lorem sed risus ultricies |
+| tristique nulla aliquet. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Condimentum mattis pellentesque id nibh     |
+| tortor id. Feugiat in fermentum posuere urna nec tincidunt praesent. Tincidunt eget nullam non nisi est sit amet facilisis magna. Diam maecenas sed enim ut sem viverra aliquet eget sit. Quam       |
+| vulputate dignissim suspendisse in est.                                                                                                                                                              |
+| You can go:                                                                                                                                                                                          |
+|     west to Observatory.                                                                                                                                                                             |
+|     south to the main hall.                                                                                                                                                                          |
+| You see:                                                                                                                                                                                             |
+|     an apple                                                                                                                                                                                         |
+|     a box                                                                                                                                                                                            |
+|     a sword                                                                                                                                                                                          |
+|     a bag                                                                                                                                                                                            |
+|                                                                                                                                                                                                      |
+| >>> take apple                                                                                                                                                                                       |
+| You pick up the apple and place it in your inventory.                                                                                                                                                |
+|                                                                                                                                                                                                      |
+| >>> move west                                                                                                                                                                                        |
+| Moving west you enter the Observatory.                                                                                                                                                               |
+| The Observatory is a vast room, which is visually dominated by a massive bronze, and brass constrcut consisting of a series of notched rings afixed to one another so that each inner ring can       |
+| rotate around a different axis. With a moment of immagination, it's amusing to imagine all of the rings rotated in such a way to form a semi-sphere and seeing a giant bowl hovering in the air. The |
+| room itself is ringed by a series of elevated benches forming a ampitheter.                                                                                                                          |
+| You can go:                                                                                                                                                                                          |
+|     east to northern tower                                                                                                                                                                           |
+|                                                                                                                                                                                                      |
+| >>>                                                                                                                                                                                                  |

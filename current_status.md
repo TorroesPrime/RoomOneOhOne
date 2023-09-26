@@ -1,10 +1,14 @@
 # Current Status
 
-## September 3, 2023
+## September 26, 2023
 
 > "A journey of a thousand miles begins with a single step"
 >
 > *Laozi*
+
+Got most of the "planning informaiton" laid out for phase 1. Feel free to check out the [main menu mock up](/gfx/screen_mockups/main_game_screen.txt).
+
+## September 3, 2023
 
 At this point, the project has only just started and is largely conceptual. My intention at this is point is documenting my plans for the project, and defining all the concepts for it. See the 'planning' section below for more information.
 
